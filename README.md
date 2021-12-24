@@ -17,4 +17,7 @@ To decrypt, use the `decrypt(encrypted_text, shift)` function in [main.py](https
 
 
 ## License
-https://github.com/Falcn8/Pyord/blob/main/LICENSE
+Apache License 2.0   
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.   
+https://github.com/Falcn8/Pyord/blob/main/LICENSE   
+
