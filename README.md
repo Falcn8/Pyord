@@ -14,3 +14,7 @@ To decrypt, use the `decrypt(encrypted_text, shift)` function in [main.py](https
 ## To Do
 - [X] Support custom shifts   
 - [ ] Make a Python library
+
+
+## Licence
+https://github.com/Falcn8/Pyord/blob/main/LICENCE
