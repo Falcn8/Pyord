@@ -16,5 +16,5 @@ To decrypt, use the `decrypt(encrypted_text, shift)` function in [main.py](https
 - [ ] Make a Python library
 
 
-## Licence
-https://github.com/Falcn8/Pyord/blob/main/LICENCE
+## License
+https://github.com/Falcn8/Pyord/blob/main/LICENSE
